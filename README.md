@@ -1,4 +1,4 @@
-## Opa!! Meu nome é Nycolas, sou estudante de analise e desenvolvimento de sistemas(ADS), metido a economista e nas horas vagas tento ser White Hat
+## Opa!! Meu nome é Nycolas, sou estudante de analise e desenvolvimento de sistemas(ADS).
 
 Profissional de T.I altamente motivado com uma base sólida em hardware, redes e programação.  Conhecimento em Python, Java, SQL, HTML, CSS.
 
@@ -18,8 +18,11 @@ Profissional de T.I altamente motivado com uma base sólida em hardware, redes e
   ##
  
 <div> 
-  <a href="https://www.instagram.com/nycolas02062005?igsh=a2NjeXhneTJueWI0&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:nycolascb.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/nycolasborge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/nycolas02062005?igsh=a2NjeXhneTJueWI0&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:nycolascb.dev@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/nycolasborge" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
